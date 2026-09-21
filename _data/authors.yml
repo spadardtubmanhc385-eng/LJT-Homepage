@@ -1,18 +1,10 @@
 # Authors
-
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+#
+# Optional per-page author overrides.
+#
+# Add an entry here and reference it from a page's front matter with
+# `author: <key>` to override the site-wide author profile defined in
+# _config.yml for that page only.
+#
+# The site-wide author profile (name, bio, email, GitHub, Google Scholar, X)
+# is configured under `author:` in _config.yml.
